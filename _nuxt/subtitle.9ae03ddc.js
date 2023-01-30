@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.a1a6add7.js";import{o as s,j as n,D as e,q as c}from"./entry.157a73e9.js";const r={},a={class:"text-base-3 sm:text-sm text-11px italic font-pres mb-20px inline-block"};function _(t,l){return s(),n("span",a,[e(" < "),c(t.$slots,"default"),e(" /> ")])}const i=o(r,[["render",_]]);export{i as _};
